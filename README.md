@@ -1,5 +1,5 @@
 # My Coding Projects
-A curated collection of creative web development experiments and interactive design showcases. Explore innovative UI/UX designs, responsive layouts, and engaging web components crafted with HTML, CSS, and JavaScript. Perfect for inspiration and learning. Check out the live demos linked below to see firsthand the quality and creativity of my programming skills in action:
+Welcome to my collection of coding projects, showcasing a range of interactive and visually engaging web elements built using HTML, CSS, and JavaScript. Each project demonstrates different techniques and creativity in front-end development.
 (https://codepen.io/Rhino0807/pen/dyBaqZr)
 (https://codepen.io/Rhino0807/pen/LYKqXdO)
 (https://codepen.io/Rhino0807/pen/PorVXpo)
